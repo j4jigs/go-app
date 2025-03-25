@@ -1,5 +1,4 @@
 name: Deploy Go Application one
-
 on:
   push:
     branches:
